@@ -1,7 +1,7 @@
 /**
  * RAAGYA — Web Harmonium
  * js/ui.js — All UI: visualizer, bellows, chips, theme, sliders, drone
- * © 2025 Raagya · Devendra Singh · ragyamusic.free.nf
+ * © 2025 Raagya · Devendra Singh · raagyamusic.free.nf
  */
 
 'use strict';
