@@ -92,55 +92,6 @@ raagya/
 
 ---
 
-## How to Publish to raagyamusic.free.nf
-
-You've chosen InfinityFree (free.nf domain). Here's the exact process:
-
-### Step 1: Sign up at InfinityFree
-1. Go to **https://infinityfree.com**
-2. Create a free account with your email: mrshekhewatexperiments@gmail.com
-3. Click **"Create Account"**
-
-### Step 2: Create a hosting account
-1. In your dashboard, click **"Create Account"**
-2. Choose a subdomain — type `ragyamusic` → it becomes `raagyamusic.free.nf`
-3. Wait 5-10 minutes for activation
-
-### Step 3: Upload files
-**Option A — File Manager (easiest):**
-1. Go to your InfinityFree control panel
-2. Click **"File Manager"** → navigate to `htdocs` folder
-3. Delete any default files
-4. Upload ALL files from this ZIP keeping the folder structure:
-   - `index.html` → directly in `htdocs/`
-   - `css/style.css` → in `htdocs/css/`
-   - `js/audio.js` etc → in `htdocs/js/`
-
-**Option B — FTP (FileZilla):**
-1. Download FileZilla from filezilla-project.org
-2. Use the FTP credentials from your InfinityFree control panel
-3. Connect and upload the `raagya/` contents to `htdocs/`
-
-### Step 4: Access your site
-Visit: **https://raagyamusic.free.nf**
-
-Your Raagya harmonium is now live! 🎵
-
----
-
-## Alternative Free Hosts (if InfinityFree is slow)
-
-| Host | URL | Notes |
-|------|-----|-------|
-| **Netlify** | netlify.com | Fastest, drag & drop, free SSL |
-| **GitHub Pages** | pages.github.com | Free forever, needs GitHub account |
-| **Vercel** | vercel.com | Instant deploy, free tier |
-| **Cloudflare Pages** | pages.cloudflare.com | Global CDN, totally free |
-
-For Netlify (recommended): Just drag the raagya folder onto netlify.com and it deploys in 30 seconds.
-
----
-
 ## Copyright
 
 © 2025 Raagya — Made by **Devendra Singh**  
