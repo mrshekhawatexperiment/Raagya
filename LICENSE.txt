@@ -11,6 +11,7 @@ intellectual property of Devendra Singh operating as Raagya.
 
 GRANT OF LICENSE
 You may use this Software for personal, non-commercial purposes only.
+You may not modify or create derivative works for commercial purposes without permission.
 
 RESTRICTIONS — You may NOT:
   (a) Copy, distribute, publish or share the Software or any portion thereof
