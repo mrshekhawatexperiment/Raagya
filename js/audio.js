@@ -1,7 +1,7 @@
 /**
  * RAAGYA — Web Harmonium
  * js/audio.js — Realistic Instrument Sound Engine
- * © 2025 Raagya · Devendra Singh · ragyamusic.free.nf
+ * © 2025 Raagya · Devendra Singh · raagyamusic.free.nf
  * Contact: mrshekhewatexperiments@gmail.com
  *
  * Each instrument uses a completely unique synthesis approach:
