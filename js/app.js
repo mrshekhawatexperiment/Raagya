@@ -1,7 +1,7 @@
 /**
  * RAAGYA — Web Harmonium
  * js/app.js — Main orchestrator
- * © 2025 Raagya · Devendra Singh · ragyamusic.free.nf
+ * © 2025 Raagya · Devendra Singh · raagyamusic.free.nf
  * mrshekhewatexperiments@gmail.com
  */
 
