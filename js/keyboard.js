@@ -1,7 +1,7 @@
 /**
  * RAAGYA — Web Harmonium
  * js/keyboard.js — Full 3-octave keyboard with number+letter+symbol keys
- * © 2025 Raagya · Devendra Singh · ragyamusic.free.nf
+ * © 2025 Raagya · Devendra Singh · raagyamusic.free.nf
  *
  * LAYOUT:
  *  Numbers (1-0) + top row (Q…P) + middle row (A…;) + bottom row (Z…/) = 36 notes
